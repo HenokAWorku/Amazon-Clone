@@ -1,0 +1,45 @@
+*{
+ margin:0 ;
+}
+
+.rec.rec-arrow{
+  /* margin-left: -95px; */
+  /* margin-right: -140px; */
+  display: none;
+
+
+}
+.rec.rec-arrow-right:hover:enabled {
+ background-color: transparent;
+
+ 
+}
+.rec.rec-arrow-left:hover:enabled {
+ background-color: transparent;
+
+ 
+}
+.rec.rec-arrow-left:hover:enabled {
+ background-color: transparent;
+
+ 
+}
+
+.rec.rec-dot{
+  display: none;
+}
+.rec-carousel-item {
+  width:100%;
+ 
+   mask-image: linear-gradient(to bottom, hsl(0,  0%), rgba(0, 0, 0, 0));
+  
+  
+ 
+   
+}
+.rec.rec-carousel{
+  width: 100%;
+ 
+   mask-image: linear-gradient(to bottom, hsl(0,  0%), rgba(0, 0, 0, 0));
+
+}
